@@ -445,7 +445,7 @@ color: #1977f3;
   }
 
   .loro{
-    background: url("/imagenes/b1.jpg") no-repeat left top;
+    background: url("../imagenes/b1.jpg") no-repeat left top;
     height: 200px;
     background-position: center;
     background-size: cover;
@@ -453,7 +453,7 @@ color: #1977f3;
   }
 
   .mono{
-    background: url("/imagenes/b2.jpg") no-repeat left top;
+    background: url("../imagenes/b2.jpg") no-repeat left top;
     background-position: center;
     height: 200px;
     background-size: cover;
@@ -461,7 +461,7 @@ color: #1977f3;
   }
 
   .leon{
-    background: url("/imagenes/b3.jpg") no-repeat left top;
+    background: url("../imagenes/b3.jpg") no-repeat left top;
     background-position: center;
     height: 200px;
     background-size: cover;
@@ -469,7 +469,7 @@ color: #1977f3;
   }
 
   .osito{
-    background: url("/imagenes/osito.jpg") no-repeat left top;
+    background: url("../imagenes/osito.jpg") no-repeat left top;
     background-position: center;
     height: 600px;
     background-size: cover;
